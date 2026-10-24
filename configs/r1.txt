@@ -1,0 +1,4 @@
+{"data":"mnist","widths":[2000],"kind":"lut2","epochs":10,"wl":0,"save":"A_wl0.pt"}
+{"data":"mnist","widths":[2000],"kind":"lut2","epochs":10,"wl":2,"save":"B_wl2.pt"}
+{"data":"mnist","widths":[1800,200],"kind":"lut2","epochs":10,"wl":2,"save":"C_v20.pt"}
+{"data":"mnist","widths":[1950,50],"kind":"lut2","epochs":10,"wl":2,"save":"D_v5.pt"}

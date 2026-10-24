@@ -1,0 +1,3 @@
+    14209 cells
+     9222 6.01E+04 cells
+   Chip area for module '\head_csa': 60111.401600

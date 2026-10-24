@@ -1,0 +1,3 @@
+    25337 cells
+    23833 3.71E+05 cells
+   Chip area for module '\lgn_fabric': 370652.985600

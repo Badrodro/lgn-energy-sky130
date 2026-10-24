@@ -1,0 +1,2 @@
+{"data":"mnist","widths":[2000],"kind":"lut2","epochs":10,"wl":0.5,"save":"B_wl05.pt"}
+{"data":"mnist","widths":[2000],"kind":"lut2","epochs":10,"wl":1,"save":"B_wl1.pt"}

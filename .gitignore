@@ -1,0 +1,5 @@
+scripts/proto/dl/
+*.pt
+__pycache__/
+*.vcd
+*_syn.v

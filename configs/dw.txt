@@ -1,0 +1,72 @@
+{"data": "digits", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[24]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[48]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[24]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[48]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[24]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[48]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 15]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[2, 31]], "lam": 0.03, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}

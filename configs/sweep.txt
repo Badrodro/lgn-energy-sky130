@@ -1,0 +1,12 @@
+{"data":"mnist","kind":"dense","arch":[[256],[128]],"lam":0.003,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"dense","arch":[[256],[128]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"dense","arch":[[256],[128]],"lam":0.03,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"dense","arch":[[512],[256]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[64,3],[32,3]],"lam":0.003,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[64,3],[32,3]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[64,7],[32,3]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[128,3],[64,3]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[64,15],[32,7]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[32,7],[16,7]],"lam":0.01,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"tree","arch":[[64,7],[32,3]],"lam":0.003,"epochs":8,"ntest":5000}
+{"data":"mnist","kind":"dense","arch":[[256],[128]],"lam":0.0,"epochs":8,"ntest":5000}

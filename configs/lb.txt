@@ -1,0 +1,30 @@
+{"data": "mnist", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[64]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[64]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[64]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[64], [32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[64], [32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "mnist", "kind": "dense", "arch": [[64], [32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[64]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[64]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[64]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[64], [32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 8, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[64], [32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 4, "perm": 1}
+{"data": "fmnist", "kind": "dense", "arch": [[64], [32]], "lam": 0.003, "epochs": 10, "seed": 0, "ntest": 10000, "wbits": 2, "perm": 1}

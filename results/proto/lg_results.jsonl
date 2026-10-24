@@ -1,0 +1,2 @@
+{"acc_soft": 0.9366, "acc": 0.9362, "gates": 29792, "toggles": 6744.089208920892, "wire_mean": 1.7543969304031697, "passthru": 22869, "const": 270, "cfg": {"data": "mnist", "local": [[28, 28, 8], [28, 28, 8], [14, 14, 24], [14, 14, 24], [7, 7, 80], [7, 7, 80]], "r": 2, "epochs": 10, "thr": [0.25, 0.5, 0.75]}, "secs": 972}
+{"acc_soft": 0.9423, "acc": 0.9432, "gates": 30000, "toggles": 9391.617861786179, "wire_mean": null, "passthru": 20652, "const": 199, "cfg": {"data": "mnist", "width": 5000, "depth": 6, "epochs": 10, "thr": [0.25, 0.5, 0.75]}, "secs": 979}

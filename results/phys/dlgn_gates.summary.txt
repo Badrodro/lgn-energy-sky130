@@ -1,0 +1,3 @@
+       20 cells
+       20  242.733 cells
+   Chip area for module '\dlgn_gates': 242.732800

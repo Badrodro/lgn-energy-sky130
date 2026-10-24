@@ -1,0 +1,4 @@
+{"data":"mnist","widths":[8000],"kind":"lut2","epochs":10}
+{"data":"mnist","widths":[8000],"kind":"maj3","epochs":10}
+{"data":"mnist","widths":[2000],"kind":"lut2","epochs":10}
+{"data":"mnist","widths":[2000],"kind":"maj3","epochs":10}

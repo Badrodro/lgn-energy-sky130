@@ -1,0 +1,3 @@
+{"data":"mnist","widths":[2000],"kind":"lut2","epochs":10,"thr":[0.25],"save":"M_t1.pt"}
+{"data":"fmnist","widths":[2000],"kind":"lut2","epochs":10,"thr":[0.25],"save":"F_t1.pt"}
+{"data":"fmnist","widths":[2000],"kind":"lut2","epochs":10,"thr":[0.25,0.5],"save":"F_t2.pt"}

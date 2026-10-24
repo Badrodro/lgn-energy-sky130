@@ -1,0 +1,75 @@
+{"data": "digits", "kind": "dense", "arch": [[8], [4]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[12], [6]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[16], [8]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[24], [12]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 60, "seed": 0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 0, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "dense", "arch": [[8], [4]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[12], [6]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[16], [8]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[24], [12]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 60, "seed": 1}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 1, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "dense", "arch": [[8], [4]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[12], [6]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[16], [8]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[24], [12]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "dense", "arch": [[32], [16]], "lam": 0.003, "epochs": 60, "seed": 2}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[6, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 3], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[4, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 3, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 1, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 0.5}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 2, "dstep": 1.0}
+{"data": "digits", "kind": "tree", "arch": [[8, 7], [4, 3]], "lam": 0.003, "lamc": 0.0, "epochs": 60, "seed": 2, "nbq": 3, "dstep": 0.5}

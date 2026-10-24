@@ -1,0 +1,14 @@
+date_utc: 2026-10-23T20:33Z
+python 3.13.16
+numpy 2.5.3
+torch 2.14.1+cpu
+scipy 1.18.1
+sklearn 1.9.1
+yosys: Yosys 0.62 (git sha1 v0.62, g++ 15.3.0 -fPIC -O3)
+openroad: 26Q2 
+sta: 3.1.0
+iverilog: Icarus Verilog version 13.0 (stable) (v13_0)
+ngspice: ** ngspice-42 : Circuit level simulation program
+PDK: /opt/asic/pdk/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+Linux 6.18.44-fc-v153
+4

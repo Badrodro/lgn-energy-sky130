@@ -1,0 +1,3 @@
+    10841 cells
+     8490 6.02E+04 cells
+   Chip area for module '\popc': 60215.251200

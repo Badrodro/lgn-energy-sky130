@@ -1,0 +1,2 @@
+{"data":"mnist","H":32,"epochs":12,"ntest":10000}
+{"data":"mnist","H":64,"epochs":12,"ntest":10000}

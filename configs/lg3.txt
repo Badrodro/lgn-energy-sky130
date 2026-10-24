@@ -1,0 +1,2 @@
+{"data":"mnist","width":4096,"depth":12,"epochs":20,"thr":[0.25,0.5,0.75],"res":2,"butterfly":1,"save":"bf_mnist.npz"}
+{"data":"mnist","width":4096,"depth":12,"epochs":20,"thr":[0.25,0.5,0.75],"res":2,"butterfly":0}

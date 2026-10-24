@@ -1,0 +1,2 @@
+{"acc": 0.9279000163078308, "acc_soft": 0.9355000257492065, "gates": 2000, "mean_wire": null, "comparators": 2352, "cfg": {"data": "mnist", "widths": [2000], "kind": "lut2", "epochs": 10, "cert": 1.0, "save": "C_cert1.pt"}, "secs": 2440}
+{"cert_by_phase": [[0, 0.0], [1, 0.9940000176429749], [2, 0.9940000176429749], [3, 0.9940000176429749]], "acc": 0.9279}

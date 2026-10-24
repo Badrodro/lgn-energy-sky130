@@ -1,0 +1,255 @@
+# DTN vectors lanes32 (LANES=32 G_MAX=4)
+# coverage point: number of hits (required points marked *)
+* ('C', 0): 137
+* ('C', 1): 67
+  ('C', 10): 3
+  ('C', 11): 7
+  ('C', 12): 2
+  ('C', 13): 1
+  ('C', 14): 2
+  ('C', 15): 3
+* ('C', 2): 51
+* ('C', 3): 66
+* ('C', 4): 186
+  ('C', 5): 5
+  ('C', 6): 5
+  ('C', 7): 6
+  ('C', 8): 2
+  ('C', 9): 2
+* ('N', 1, 'argmax'): 11
+* ('N', 1, 'relu'): 20
+* ('N', 100, 'argmax'): 13
+* ('N', 100, 'relu'): 63
+  ('N', 104, 'relu'): 4
+  ('N', 106, 'relu'): 1
+  ('N', 109, 'relu'): 2
+  ('N', 112, 'argmax'): 1
+  ('N', 114, 'relu'): 1
+  ('N', 115, 'relu'): 1
+  ('N', 116, 'argmax'): 1
+  ('N', 117, 'relu'): 1
+  ('N', 12, 'relu'): 2
+  ('N', 120, 'relu'): 80
+  ('N', 122, 'relu'): 1
+  ('N', 125, 'relu'): 1
+* ('N', 128, 'argmax'): 14
+* ('N', 128, 'relu'): 31
+  ('N', 13, 'relu'): 2
+  ('N', 14, 'argmax'): 1
+  ('N', 14, 'relu'): 1
+  ('N', 15, 'argmax'): 1
+  ('N', 16, 'argmax'): 8
+  ('N', 17, 'argmax'): 2
+  ('N', 18, 'argmax'): 2
+  ('N', 2, 'argmax'): 1
+  ('N', 2, 'relu'): 3
+  ('N', 24, 'argmax'): 2
+  ('N', 24, 'relu'): 1
+  ('N', 25, 'relu'): 2
+  ('N', 26, 'argmax'): 1
+  ('N', 27, 'relu'): 1
+  ('N', 3, 'argmax'): 1
+  ('N', 3, 'relu'): 2
+* ('N', 31, 'argmax'): 14
+* ('N', 31, 'relu'): 28
+* ('N', 32, 'argmax'): 12
+* ('N', 32, 'relu'): 43
+* ('N', 33, 'argmax'): 17
+* ('N', 33, 'relu'): 30
+  ('N', 35, 'argmax'): 1
+  ('N', 35, 'relu'): 1
+  ('N', 36, 'argmax'): 1
+  ('N', 38, 'argmax'): 1
+  ('N', 4, 'relu'): 2
+  ('N', 42, 'relu'): 1
+  ('N', 43, 'relu'): 1
+  ('N', 44, 'argmax'): 1
+  ('N', 45, 'relu'): 2
+  ('N', 46, 'relu'): 1
+  ('N', 47, 'relu'): 1
+  ('N', 49, 'relu'): 1
+* ('N', 5, 'argmax'): 13
+* ('N', 5, 'relu'): 39
+  ('N', 50, 'argmax'): 33
+  ('N', 51, 'relu'): 1
+  ('N', 55, 'argmax'): 1
+  ('N', 59, 'argmax'): 1
+  ('N', 59, 'relu'): 1
+  ('N', 6, 'argmax'): 1
+  ('N', 60, 'argmax'): 81
+  ('N', 60, 'relu'): 2
+  ('N', 62, 'relu'): 1
+* ('N', 64, 'argmax'): 18
+* ('N', 64, 'relu'): 151
+  ('N', 65, 'relu'): 1
+  ('N', 7, 'relu'): 1
+  ('N', 70, 'relu'): 1
+  ('N', 72, 'relu'): 1
+  ('N', 76, 'relu'): 1
+  ('N', 77, 'argmax'): 1
+  ('N', 8, 'relu'): 2
+  ('N', 80, 'argmax'): 2
+  ('N', 80, 'relu'): 1
+  ('N', 81, 'relu'): 3
+  ('N', 85, 'relu'): 1
+  ('N', 87, 'relu'): 1
+  ('N', 88, 'relu'): 1
+  ('N', 89, 'argmax'): 1
+  ('N', 90, 'argmax'): 1
+  ('N', 90, 'relu'): 1
+  ('N', 92, 'relu'): 2
+  ('N', 97, 'relu'): 1
+  ('N', 99, 'relu'): 1
+* ('NB', 1): 26
+* ('NB', 2): 33
+* ('NB', 3): 40
+* ('NB', 4): 30
+* ('NB', 5): 31
+* ('NB', 6): 70
+* ('NB', 7): 145
+* ('NB', 8): 33
+* ('R', 1, 'argmax'): 10
+* ('R', 1, 'relu'): 29
+  ('R', 10, 'argmax'): 120
+  ('R', 10, 'relu'): 32
+  ('R', 100, 'argmax'): 1
+  ('R', 105, 'argmax'): 1
+  ('R', 12, 'relu'): 40
+  ('R', 120, 'relu'): 40
+  ('R', 124, 'argmax'): 1
+  ('R', 128, 'relu'): 1
+  ('R', 16, 'relu'): 1
+* ('R', 2, 'argmax'): 8
+* ('R', 2, 'relu'): 47
+  ('R', 20, 'argmax'): 1
+  ('R', 20, 'relu'): 32
+  ('R', 24, 'relu'): 40
+* ('R', 255, 'argmax'): 4
+  ('R', 27, 'argmax'): 1
+* ('R', 3, 'argmax'): 13
+* ('R', 3, 'relu'): 43
+  ('R', 32, 'relu'): 1
+* ('R', 4, 'argmax'): 15
+* ('R', 4, 'relu'): 37
+  ('R', 48, 'argmax'): 1
+* ('R', 5, 'argmax'): 23
+* ('R', 5, 'relu'): 24
+  ('R', 58, 'argmax'): 1
+* ('R', 6, 'argmax'): 20
+* ('R', 6, 'relu'): 33
+  ('R', 60, 'relu'): 40
+  ('R', 64, 'relu'): 1
+  ('R', 69, 'argmax'): 1
+* ('R', 7, 'argmax'): 14
+* ('R', 7, 'relu'): 31
+  ('R', 79, 'argmax'): 1
+* ('R', 8, 'argmax'): 12
+* ('R', 8, 'relu'): 35
+* ('R', 9, 'argmax'): 10
+* ('R', 9, 'relu'): 38
+  ('R', 98, 'argmax'): 1
+* ('all255', 'argmax'): 5
+* ('all255', 'relu'): 13
+* ('argmax_all_equal',): 18
+* ('argmax_negative',): 36
+* ('argmax_result_ge_128',): 4
+* ('argmax_tie',): 52
+* ('argmax_tie_not_row0',): 20
+* ('b_max', 'argmax'): 7
+* ('b_max', 'relu'): 81
+* ('b_min', 'argmax'): 8
+* ('b_min', 'relu'): 75
+* ('child', 1, 'act'): 56
+* ('child', 1, 'cert@0'): 59
+* ('child', 1, 'cert@1'): 25
+* ('child', 2, 'act'): 136
+* ('child', 2, 'cert@0'): 112
+* ('child', 2, 'cert@1'): 20
+* ('child', 2, 'cert@2'): 15
+* ('child', 3, 'act'): 188
+* ('child', 3, 'cert@0'): 126
+* ('child', 3, 'cert@1'): 21
+* ('child', 3, 'cert@2'): 13
+* ('child', 3, 'cert@3'): 30
+* ('child', 4, 'act'): 69
+* ('child', 4, 'cert@0'): 87
+* ('child', 4, 'cert@1'): 8
+* ('child', 4, 'cert@2'): 4
+* ('child', 4, 'cert@3'): 5
+* ('child', 4, 'cert@4'): 5
+* ('child', 5, 'act'): 118
+* ('child', 5, 'cert@0'): 86
+* ('child', 5, 'cert@1'): 20
+* ('child', 5, 'cert@2'): 14
+* ('child', 5, 'cert@3'): 8
+* ('child', 5, 'cert@4'): 7
+* ('child', 5, 'cert@5'): 24
+* ('child', 6, 'act'): 390
+* ('child', 6, 'cert@0'): 233
+* ('child', 6, 'cert@1'): 25
+* ('child', 6, 'cert@2'): 47
+* ('child', 6, 'cert@3'): 33
+* ('child', 6, 'cert@4'): 29
+* ('child', 6, 'cert@5'): 14
+* ('child', 6, 'cert@6'): 10
+* ('child', 7, 'act'): 514
+* ('child', 7, 'cert@0'): 533
+* ('child', 7, 'cert@1'): 83
+* ('child', 7, 'cert@2'): 423
+* ('child', 7, 'cert@3'): 186
+* ('child', 7, 'cert@4'): 63
+* ('child', 7, 'cert@5'): 29
+* ('child', 7, 'cert@6'): 13
+* ('child', 7, 'cert@7'): 8
+* ('child', 8, 'act'): 72
+* ('child', 8, 'cert@0'): 56
+* ('child', 8, 'cert@1'): 30
+* ('child', 8, 'cert@2'): 7
+* ('child', 8, 'cert@3'): 8
+* ('child', 8, 'cert@4'): 7
+* ('child', 8, 'cert@5'): 1
+* ('child', 8, 'cert@6'): 2
+* ('child', 8, 'cert@7'): 1
+* ('child', 8, 'cert@8'): 5
+* ('child_acc_eq_T0',): 45
+* ('child_out_255',): 317
+* ('child_skip',): 9581
+* ('db_0',): 245
+* ('db_max',): 173
+* ('full_out_buffer',): 6
+* ('garbage_beyond_N', 'argmax'): 241
+* ('garbage_beyond_N', 'relu'): 273
+* ('garbage_in_last_group', 'argmax'): 198
+* ('garbage_in_last_group', 'relu'): 189
+* ('garbage_weight_lanes', 'argmax'): 12
+* ('garbage_weight_lanes', 'relu'): 22
+* ('inbuf', 0, 'argmax'): 191
+* ('inbuf', 0, 'relu'): 272
+* ('inbuf', 1, 'argmax'): 68
+* ('inbuf', 1, 'relu'): 273
+* ('partial_groups', 'argmax'): 37
+* ('partial_groups', 'relu'): 152
+* ('product_ge_2^31',): 319
+* ('root', 'act'): 1906
+* ('root', 'cert@0'): 740
+* ('root', 'cert@1'): 225
+* ('root', 'cert@2'): 439
+* ('root', 'cert@3'): 2142
+* ('root', 'cert@4'): 3281
+* ('root', 'cert@5'): 1467
+* ('root', 'cert@6'): 666
+* ('root', 'cert@7'): 531
+* ('root_acc_eq_T0',): 59
+* ('root_acc_eq_T0+1',): 100
+* ('root_out_255',): 374
+* ('row_all+127',): 282
+* ('row_all-127',): 393
+* ('row_all_0',): 482
+* ('single_lane', 'argmax'): 25
+* ('single_lane', 'relu'): 75
+* ('wbase!=0', 'argmax'): 191
+* ('wbase!=0', 'relu'): 395
+* ('wbase0', 'argmax'): 68
+* ('wbase0', 'relu'): 150
+* ('zero_input', 'argmax'): 26
+* ('zero_input', 'relu'): 33

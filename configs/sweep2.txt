@@ -1,0 +1,66 @@
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.0, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.003, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.01, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.03, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.003, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.01, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 7], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[32, 7], [16, 7]], "lam": 0.003, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[128, 3], [64, 3]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.0, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.003, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.01, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.03, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.003, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.01, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 7], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[32, 7], [16, 7]], "lam": 0.003, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[128, 3], [64, 3]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.0, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.003, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.01, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.03, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.003, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.01, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[64, 7], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[32, 7], [16, 7]], "lam": 0.003, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "mnist", "kind": "tree", "arch": [[128, 3], [64, 3]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.0, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.003, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.01, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.03, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.003, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.01, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 7], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[32, 7], [16, 7]], "lam": 0.003, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[128, 3], [64, 3]], "lam": 0.001, "epochs": 20, "seed": 0, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.0, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.003, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.01, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.03, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.003, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.01, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 7], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[32, 7], [16, 7]], "lam": 0.003, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[128, 3], [64, 3]], "lam": 0.001, "epochs": 20, "seed": 1, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.0, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.003, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.01, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "dense", "arch": [[256], [128]], "lam": 0.03, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.003, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 3], [32, 3]], "lam": 0.01, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[64, 7], [32, 3]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[32, 7], [16, 7]], "lam": 0.003, "epochs": 20, "seed": 2, "ntest": 10000}
+{"data": "fmnist", "kind": "tree", "arch": [[128, 3], [64, 3]], "lam": 0.001, "epochs": 20, "seed": 2, "ntest": 10000}

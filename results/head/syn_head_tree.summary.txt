@@ -1,0 +1,3 @@
+    10841 cells
+     8486  6.2E+04 cells
+   Chip area for module '\head_tree': 61969.433600

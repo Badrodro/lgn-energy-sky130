@@ -1,0 +1,2 @@
+{"acc": 0.9323, "scan": 337.1962, "readout": 79.996, "total": 417.1922, "cfg": {"data": "mnist", "H": 32, "epochs": 12, "ntest": 10000}, "secs": 400}
+{"acc": 0.9528, "scan": 789.7881, "readout": 159.996, "total": 949.7841, "cfg": {"data": "mnist", "H": 64, "epochs": 12, "ntest": 10000}, "secs": 867}

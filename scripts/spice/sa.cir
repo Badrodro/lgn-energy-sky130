@@ -1,0 +1,37 @@
+* StrongARM latch comparator, sky130, offset by slow differential ramp
+.lib "/opt/asic/pdk/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.tech/ngspice/sky130.lib.spice" tt_mm
+.param WIN=2 LIN=0.5 WL=1 LL=0.15 WT=2
+Vdd vdd 0 1.8
+Vclk clk 0 PULSE(0 1.8 5n 50p 50p 4.9n 10n)
+* differential ramp -40 mV .. +40 mV over 64 cycles, common mode 0.9 V
+Vp inp 0 PWL(0 0.88 1280n 0.92)
+Vn inn 0 PWL(0 0.92 1280n 0.88)
+XMt tail clk 0 0 sky130_fd_pr__nfet_01v8 W={WT} L=0.15
+XM1 x inp tail 0 sky130_fd_pr__nfet_01v8 W={WIN} L={LIN}
+XM2 y inn tail 0 sky130_fd_pr__nfet_01v8 W={WIN} L={LIN}
+XM3 outn outp x 0 sky130_fd_pr__nfet_01v8 W={WL} L={LL}
+XM4 outp outn y 0 sky130_fd_pr__nfet_01v8 W={WL} L={LL}
+XM5 outn outp vdd vdd sky130_fd_pr__pfet_01v8 W={WL*2} L={LL}
+XM6 outp outn vdd vdd sky130_fd_pr__pfet_01v8 W={WL*2} L={LL}
+XR1 outn clk vdd vdd sky130_fd_pr__pfet_01v8 W=1 L=0.15
+XR2 outp clk vdd vdd sky130_fd_pr__pfet_01v8 W=1 L=0.15
+XR3 x clk vdd vdd sky130_fd_pr__pfet_01v8 W=1 L=0.15
+XR4 y clk vdd vdd sky130_fd_pr__pfet_01v8 W=1 L=0.15
+Cl1 outp 0 5f
+Cl2 outn 0 5f
+.tran 20p 1280n
+.control
+run
+let d = v(outp) - v(outn)
+* sample at the end of each evaluation phase (t = 9.8 ns + k*10 ns)
+let k = 0
+while k < 128
+  let t = 9.8e-9 + k * 10e-9
+  meas tran dk find d at=$&t
+  echo "DEC" $&k $&dk
+  let k = k + 1
+end
+meas tran iavg avg i(Vdd) from=0 to=1280n
+echo "IAVG" $&iavg
+.endc
+.end
